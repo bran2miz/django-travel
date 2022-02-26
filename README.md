@@ -38,10 +38,7 @@ Python, Poetry, Django
 
 ## Credit and Collaborations
 
-Eddie Ponce
-
-Alex Payne
-
-Connor Boyce
-
-Roger Huba
+-Eddie Ponce
+-Alex Payne
+-Connor Boyce
+-Roger Huba
